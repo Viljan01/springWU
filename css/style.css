@@ -3,30 +3,29 @@ img {
 }
 
 Body {
-    background-color: rgb(215, 215, 215);
+    background-color: rgb(31, 6, 6);
 }
 
 header {
     height: 100px;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(52, 28, 28);
     margin-bottom: 10px;
     
 }
 nav {
     height:200px;
-    background-color:rgb(230, 230, 230);
+    background-color:rgb(52, 28, 28);
     margin-bottom: 10px;
 }
 main {
     height:400px;
-    /* width: 500px; */
-    background-color:rgb(215, 215, 215);
+    background-color:rgb(52, 28, 28);
     display: grid;
     gap: 10px;
     grid-template-columns: 1fr 1fr;
 }
 section {
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(52, 28, 28);
 }
 footer {
     height: 100px;
